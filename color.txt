@@ -1,0 +1,8 @@
+/* CSS HEX */
+--french-raspberry: #c33149ff;
+--middle-green-yellow: #a8c256ff;
+--wheat: #f3d9b1ff;
+--antique-brass: #c29979ff;
+--auburn: #a22522ff;
+
+https://coolors.co/c33149-a8c256-f3d9b1-c29979-a22522
